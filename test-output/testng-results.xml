@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8460" started-at="2021-04-10T14:05:01Z" finished-at="2021-04-10T14:05:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8460" started-at="2021-04-10T14:05:01Z" finished-at="2021-04-10T14:05:10Z">
+      <class name="automationfc.com.Topic_01_Check_Environment">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:automationfc.com.Topic_01_Check_Environment@48eff760]" name="beforeClass" is-config="true" duration-ms="8050" started-at="2021-04-10T21:05:01Z" finished-at="2021-04-10T21:05:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="TC_01_ValidateCurrentUrl()[pri:0, instance:automationfc.com.Topic_01_Check_Environment@48eff760]" name="TC_01_ValidateCurrentUrl" duration-ms="20" started-at="2021-04-10T21:05:09Z" finished-at="2021-04-10T21:05:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_ValidateCurrentUrl -->
+        <test-method status="PASS" signature="TC_02_ValidatePageTitle()[pri:0, instance:automationfc.com.Topic_01_Check_Environment@48eff760]" name="TC_02_ValidatePageTitle" duration-ms="10" started-at="2021-04-10T21:05:09Z" finished-at="2021-04-10T21:05:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02_ValidatePageTitle -->
+        <test-method status="PASS" signature="TC_03_LoginFormDisplayed()[pri:0, instance:automationfc.com.Topic_01_Check_Environment@48eff760]" name="TC_03_LoginFormDisplayed" duration-ms="62" started-at="2021-04-10T21:05:09Z" finished-at="2021-04-10T21:05:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03_LoginFormDisplayed -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:automationfc.com.Topic_01_Check_Environment@48eff760]" name="afterClass" is-config="true" duration-ms="293" started-at="2021-04-10T21:05:09Z" finished-at="2021-04-10T21:05:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- automationfc.com.Topic_01_Check_Environment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
